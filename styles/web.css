@@ -87,3 +87,46 @@ nav{
     margin-left: 380px;
 
 }
+
+/* 1st section of main body*/
+.action{
+     width: 1510px;
+    height: 700px;
+    /*width: 1140px;
+    height: 328px;*/
+    margin: 800x 159px 16px 141px;
+    display:flex;
+    justify-content: space-between;
+    gap:70px;
+}
+
+.live{
+    width: 520px;
+    height:203px;
+    margin: 70px 0px 70px 150px;
+    
+}
+.title{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: left;
+    color: #252432;
+    fill: 100%;
+}
+.sub-title{
+    font-weight: normal;
+    font-size: 24px;
+    text-align: left;
+    color: #252432;
+    fill: 50%;
+}
+
+.img1{
+    width:403px;
+    height:328px;
+    border-radius: 48px;
+    margin-top: 58px;
+    margin-right: 150px;
+    
+}
+
