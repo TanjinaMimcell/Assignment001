@@ -211,3 +211,52 @@ display:flex;
     
 
 }
+
+
+/* template */
+.template{
+    width: 1140px;
+    height: 695px;
+     margin-left: 150px;
+     margin-top: 150px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);
+
+
+}
+
+.title3{
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 120%;
+    color: #000000;
+    text-align: center;
+    padding-top: 71px;
+    
+}
+.description{
+    color: #000000;
+    text-align: center;
+}
+
+.temb{
+    margin-top: 15px;
+    margin-left: 490px;
+}
+
+.big-image{
+    display: flex;
+    justify-content: center; /* Horizontally center */
+
+     margin-top: 30px;
+     align-items: center;
+    
+}
+.big{
+    width:840px;
+    height:350px;
+     align-items: center;
+   
+    
+    
+}
